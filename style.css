@@ -1,0 +1,8 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background:linear-gradient(rgb(0, 0, 0), red)
+}
+canvas {
+  display: block;
+}
